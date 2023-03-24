@@ -1,6 +1,6 @@
 // AUTHOR: Fransay
 // DATE: 24/03/23
-// DESCRIPTION: A program that returns the sum of multiples of 3 or 5 below 1000.
+// DESCRIPTION: A program that outputs the sum of multiples of 3 or 5 below 1000.
 
 const numberLimit = 1000; 
 void main(){
