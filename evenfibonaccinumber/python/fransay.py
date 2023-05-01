@@ -27,7 +27,7 @@ def main():
             SUM = SUM + third_number
         start_count_number, next_count_number = next_count_number, third_number
         count_number += 1
-        print(third_number, end=" \n")
+        # print(third_number, end=" \n")
     print("SUM: ", SUM)
     end_time = t.time()  # end stop clock counter in seconds
     time_elapsed = end_time - start_time
