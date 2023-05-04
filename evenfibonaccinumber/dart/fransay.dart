@@ -5,12 +5,12 @@
 
 
 
-
 void main(){
   int naturalNumber = 0; // natural number starting at zero
   var sumEvenFib = 0; // sum of even fibonacci numbers
   const LIMIT = 4000000; // fibonacci sequence must not exceed LIMIT
   var firstFibNumber = naturalNumber; // first fib number 
+
   var secondFibNumber = firstFibNumber + 1; // second fib number (firstNumber + 1)
 
   while (firstFibNumber <= LIMIT){
